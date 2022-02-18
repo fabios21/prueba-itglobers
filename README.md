@@ -13,3 +13,6 @@ Ejecutar `npm i`
 ### Iniciar
 
 Ejecutar `npm start`
+
+<img src="https://i.ibb.co/SRSFvgX/screenshot-prueba-itglobers-l54sop50u-fabios21-vercel-app-2022-02-17-22-07-10.png" />
+
