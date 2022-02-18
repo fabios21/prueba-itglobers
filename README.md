@@ -4,7 +4,7 @@
 
 ### Clonar este repositorio
 
-Enlace para clonar [https://github.com/fabios21/Social-Feed-React-App.git](https://github.com/fabios21/Social-Feed-React-App.git)
+Enlace para clonar [https://github.com/fabios21/prueba-itglobers.git](https://github.com/fabios21/prueba-itglobers.git)
 
 ### Instalar
 
