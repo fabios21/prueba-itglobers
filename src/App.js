@@ -5,19 +5,12 @@ import Home from './components/home/Home';
 import {
   BrowserRouter,
   Routes,
-  Route,
-  Link,
-  Outlet
+  Route
 } from "react-router-dom";
 
 import data from './json/data.json';
 
 function App() {
-  var urlTotal = window.location.href;
-
-    let nombreAerolinea = urlTotal.slice(22)
-
-    console.log(nombreAerolinea)
 
   return (
     <div className="App">
