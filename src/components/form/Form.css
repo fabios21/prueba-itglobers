@@ -1,0 +1,56 @@
+.form-container {
+    justify-content: center;
+    text-align: center;
+    justify-items: center;
+}
+
+#modal-container {
+    width: 80%;
+}
+
+.header {
+    text-align: center;
+}
+
+#img-container {
+    justify-content: center;
+}
+
+img {
+    width: 100%;
+}
+
+#msg {
+    margin: 15px 7% 25px 7%;
+}
+
+#modal {
+    background-color: rgb(168, 168, 168);
+    justify-content: center;
+    width: 100%;
+}
+
+.form {
+    width: 85%;
+    background-color: rgb(112, 59, 197);
+    padding: 4% 10% 4% 10%;
+    margin: 0;
+    width: 100%;
+}
+
+.label {
+    color: rgb(255, 255, 255);
+    font-size: large;
+    font-weight: 500;
+    margin:0;
+}
+
+#enviar {
+    margin-top: 50px;
+}
+
+.warning {
+    color: rgb(175, 0, 0);
+    background-color: rgba(255, 255, 255, 0.089);
+    font-weight: 700;
+}

@@ -1,0 +1,22 @@
+@media (min-width:921px){
+    #ul-mobile {
+        display: none;
+    }
+
+    hr {
+        display: none;
+    }
+}
+
+@media (max-width:920px){
+    #ul-mobile {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        width: 100%;
+    }
+
+    hr {
+        margin: 0;
+    }
+}  

@@ -1,5 +1,17 @@
+body {
+  
+  height: 100vh;
+}
+
 .App {
   text-align: center;
+  height: 100vh;
+  background-image: url('https://pbs.twimg.com/ext_tw_video_thumb/1454167390967812096/pu/img/B2dStDjVAgh41wHm.jpg');
+  background-size: cover;
+  /* background-color: red;
+  background-repeat: repeat-x;
+  background-size:cover;
+  padding: 0; */
 }
 
 .App-logo {
