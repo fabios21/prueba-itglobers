@@ -72,7 +72,11 @@ function Form({nombre}) {
     }
 
     const handleSubmit = e => {
-        console.log('Datos del formulario', form);
+        console.log('Resultados del formulario');
+        console.log('Nomre: ', form.nombreCompleto);
+        console.log('Email: ', form.email);
+        console.log('Celular: ', form.celular);
+        console.log('Edad: ', form.edad);
 
         document.getElementsByTagName("input")[0].value = "";
         document.getElementsByTagName("input")[1].value = "";
@@ -85,10 +89,6 @@ function Form({nombre}) {
             setForm({ ...form, statusEnvio: false})
         },5000);
     }
-
-    
-
-    let info ="temp"
 
     return (
         <div className='form-container'>
