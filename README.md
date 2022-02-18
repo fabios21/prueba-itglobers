@@ -1,4 +1,4 @@
-# Social-Feed-React-App
+# Prueba React
 
 ## *Pasos para ejecutar el proyecto
 
